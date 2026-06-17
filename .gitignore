@@ -16,6 +16,8 @@ env/
 *.xlsx
 *.csv
 *.png
+!images/**/*.png
+!output/**/*.png
 *.html
 *.db
 *.sqlite
