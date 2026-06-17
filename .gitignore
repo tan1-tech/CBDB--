@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated data files
+*.xlsx
+*.csv
+*.png
+*.html
+*.db
+*.sqlite
+*.sqlite3
+
+# Keep tracked generated files in output/ and data/
+!data/**/*.xlsx
+!data/**/*.csv
+!output/**/*.png
+!output/**/*.html
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project specific
+archive/
+data/processed/
+output/
+static/lib/
+tests/
