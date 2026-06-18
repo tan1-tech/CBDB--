@@ -35,7 +35,7 @@ Thumbs.db
 
 # Project specific
 archive/
-data/processed/
+#data/processed/
 output/
 static/lib/
 tests/
